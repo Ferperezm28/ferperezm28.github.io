@@ -7,7 +7,7 @@ let typewriter = new Typewriter(app, {
  
 typewriter
   .pauseFor(2500)
-  .typeString('<span style="color: #126154;">Desarrollo sitios web con fundamentos de marketing digital.</span>')
+  .typeString('<span style="color: #126154;">Desarrollo sitios web con enfoque en SEO y UX.</span>')
   .pauseFor(200)
   .deleteChars(10)
   .start();
